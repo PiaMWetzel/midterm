@@ -1,6 +1,10 @@
 
 
+
 <? //tag was added
+
+//Pia Wetzel
+//https://oh-no-a-porcupine.github.io/
 
 $row = mysqli_fetch_object($result);
 $db_userid = $row->admin_id;
